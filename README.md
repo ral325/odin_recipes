@@ -1,0 +1,1 @@
+This website is intended to create a main index page which will have links to a few recipes. It will teach basic HTML skills.
